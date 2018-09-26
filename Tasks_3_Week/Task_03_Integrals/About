@@ -1,5 +1,7 @@
 # CS_2.W03.T03
-Problem:Find approximation of defined Integral on (a,b) interval using (n) divisions.Read Input from file.Put output into file.
+Problem:Find approximation of defined Integral on  interval (a,b) using (n) divisions.
+Data I/O:Read Input(a,b,n) from file.Put Output into file.
 Task a) Use squares
 Task b) Use trapezoid
+Task c) Use Simpson method
 Task c) Use Runge principle
