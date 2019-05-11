@@ -1,0 +1,13 @@
+E ZUMS hud 80 100
+Idea Inferno hud 60 200
+Zoresvit DNK hud 55 40
+E C# tekh 150 5
+E HTML&CSS tekh 200 3
+E CrimeRule spec 100 5
+E Inferno hud 60 200
+Zoresvit Dictionary spec 100 30 
+Zoresvit CurseChild hud 70 40
+Zoresvit Inferno hud 50 10
+Idea Lemberg hud 45 20
+Idea Bot hud 60 220
+Idea Bot2 hud 70 200
